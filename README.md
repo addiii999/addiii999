@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Aditya Kumar Pandey
-**A passionate Full-Stack Web Developer || Frontend Architect || Java & Python Backend Engineer**
+# Hi 👋, I'm Aditya Kumar Pandey
+**A passionate Full-Stack Web Developer || Frontend Architect || Javascript & Typescript Backend Engineer**
 
 Email Me 👉 ✉️ **adityapandeypandey019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
